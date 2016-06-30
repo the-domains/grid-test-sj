@@ -1,0 +1,14 @@
+layout_spectrum: 0.4419714412651956
+typography_spectrum: 0.8587450017221272
+color:
+  brandStrength: 0.09797597071155906
+  lightness: 0.48077185987494886
+  saturation: 0.10571684455499053
+  rhythmicContrast: 0.13568223314359784
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Grid Test sj
