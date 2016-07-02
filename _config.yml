@@ -1,14 +1,26 @@
-layout_spectrum: 0.4419714412651956
-typography_spectrum: 0.8587450017221272
 color:
+  saturation: 0.1057168445549905
   brandStrength: 0.09797597071155906
-  lightness: 0.48077185987494886
-  saturation: 0.10571684455499053
-  rhythmicContrast: 0.13568223314359784
+  rhythmicContrast: 0.1356822331435978
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+  lightness: 0.4807718598749489
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4419714412651956
+typography_spectrum: 0.8587450017221272
 name: Grid Test sj
